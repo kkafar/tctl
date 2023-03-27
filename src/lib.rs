@@ -1,3 +1,5 @@
+pub type TemperatureT = f32;
+
 pub fn testfn() {
 
 }
